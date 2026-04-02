@@ -117,6 +117,4 @@ Inspired by the future of multi-planetary exploration and defense.
 **"Monitoring Earth to reach the Stars."**
 #   S e n t i n e l X 
  
- #   S e n t i n e l X 
- 
  
