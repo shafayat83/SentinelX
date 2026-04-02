@@ -1,0 +1,30 @@
+# General
+.DS_Store
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.pyc
+venv/
+env/
+.pytest_cache/
+
+# React / Node
+node_modules/
+dist/
+build/
+.npm
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Docker
+docker-build/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
